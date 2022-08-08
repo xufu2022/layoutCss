@@ -7,3 +7,11 @@ body{
 .main-title{
     border: 5px solid black;
 }
+
+.experience i:first-child {
+color: blue;
+}
+
+.experience li:first-of-type {
+    color: green;
+    }
