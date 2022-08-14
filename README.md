@@ -30,3 +30,9 @@ input[type="Email]{
 }
 
 h1.main-title{}
+
+flex: flex-grow flex-shrink flex-basic;
+
+align-self
+justify-content
+gap
